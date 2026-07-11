@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1783439536696",
+    "username": "mani",
+    "pass": "gibberish",
+    "balance": 900
+  },
+  {
+    "id": "1783440226003",
+    "username": "maddy",
+    "pass": "gibberish",
+    "balance": 200
+  },
+  {
+    "id": "1001",
+    "username": "aman",
+    "pass": "aman123",
+    "balance": 1500
+  },
+  {
+    "id": "1002",
+    "username": "rahul",
+    "pass": "rahul456",
+    "balance": 500
+  },
+  {
+    "id": "1003",
+    "username": "priya",
+    "pass": "priya789",
+    "balance": 2500
+  },
+  {
+    "id": "1004",
+    "username": "sneha",
+    "pass": "sneha101",
+    "balance": 50
+  },
+  {
+    "id": "1005",
+    "username": "vikram",
+    "pass": "vikram202",
+    "balance": 1200
+  },
+  {
+    "id": "1006",
+    "username": "rohit",
+    "pass": "rohit303",
+    "balance": 0
+  },
+  {
+    "id": "1783699079023",
+    "username": "maddu",
+    "pass": "gibb",
+    "balance": 0
+  }
+]
